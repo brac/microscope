@@ -19,6 +19,9 @@ shell-server@0.4.0            # Server-side component of the `meteor shell` comm
 
 insecure@1.0.7                # Allow all DB writes from clients (for prototyping)
 session
-bootstrap
 iron:router
 sacha:spin
+stylus
+accounts-password
+ian:accounts-ui-bootstrap-3
+twbs:bootstrap
